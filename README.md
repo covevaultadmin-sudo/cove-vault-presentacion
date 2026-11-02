@@ -1,10 +1,11 @@
+<img width="1383" height="896" alt="01-portada-inicio" src="https://github.com/user-attachments/assets/4dc97eed-5032-4949-813b-bc4837e999e3" />
 # Cove Vault
 
 > **Tu IA privada: lo que pasa en tu navegador, se queda en tu navegador.**
 
 Cove Vault es una aplicación de privacidad **local-first** para autónomos y particulares: una bóveda digital donde tus operaciones, facturas y datos fiscales se leen, calculan y almacenan **exclusivamente en tu dispositivo**.
 
-![Portada de Cove Vault](./01-portada-inicio.jpeg)
+<img width="1383" height="896" alt="01-portada-inicio" src="https://github.com/user-attachments/assets/1ed3ea3c-eed3-4575-a13c-7f7cceef4f45" />
 
 ---
 
