@@ -29,9 +29,9 @@ La higiene de datos también está pensada: **rectificativas y abonos** en su pr
 
 Tus operaciones se apoyan en **fichas de proveedores** validadas (NIF/CIF con dígito de control real) para que cada gasto quede identificado desde el minuto uno. Del mismo modo, los ingresos se identifican con **fichas de clientes** (CIF válido, email y dirección fiscal).
 
-![Operaciones con datos reales y cálculo del beneficio neto](./19-operaciones-datos-reales.jpeg)
-![Ficha de proveedor con CIF validado](./23-ficha-proveedor.jpeg)
-![Ficha de cliente con CIF validado](./24-ficha-cliente.jpeg)
+<img width="1383" height="2608" alt="19-operaciones-datos-reales" src="https://github.com/user-attachments/assets/e873fb44-ade6-4df4-9cfb-f90d3e2989ac" />
+<img width="1390" height="896" alt="23-ficha-proveedor" src="https://github.com/user-attachments/assets/7317122d-732b-4735-8277-e5c8ab8f13c3" />
+<img width="1390" height="896" alt="24-ficha-cliente" src="https://github.com/user-attachments/assets/fb652757-6488-4768-85da-4946c84a93e4" />
 
 ### Facturación — facturas desde tus operaciones, no a mano
 
@@ -41,28 +41,28 @@ Las **facturas emitidas no se pueden borrar** (nadie puede manipular su historia
 
 La facturación funciona sobre tus fichas: eliges las operaciones del cliente y el panel de impuestos trimestrales recalcula en vivo IVA repercutido y soportado, retenciones y resultado a ingresar, con tus datos reales. Cuando marcas una operación pendiente, un resumen aplica IVA e IRPF y te muestra el total de la factura, antes de descargar su PDF.
 
-![Facturación protegida](./04-facturacion-bloqueada.jpeg)
-![Facturación con datos reales y panel de impuestos trimestrales](./20-facturacion-datos-reales.jpeg)
+<img width="1383" height="896" alt="04-facturacion-bloqueada" src="https://github.com/user-attachments/assets/155331ca-0202-4d7d-97dd-c10351c2f80d" />
+<img width="1383" height="2849" alt="20-facturacion-datos-reales" src="https://github.com/user-attachments/assets/116c4239-60c6-4924-bd5d-e02f00186291" />
 
 ### Recursos — modelo oficial 303 y 130 en tiempo real
 
 Simulador de los **modelos oficiales** de la agencia fiscal: 303 (IVA) y 130 (IRPF de pagos fraccionados), con **declaraciones trimestrales calculadas en tiempo real** a partir de tus operaciones: IVA devengado y soportado, deducciones y resultado de liquidación. Descarga lista para presentar: el **PDF del modelo oficial** y el **fichero para la agencia formato `.200`** de la Sede Electrónica. Con el aviso justo donde toca: es una estimación según su normativa (RD 1624/1992), **verifica con tu gestor antes de presentar**.
 
-![Recursos protegidos](./03-recursos-bloqueados.jpeg)
-![Modelo 303 con datos reales del trimestre](./21-modelo303-datos-reales.jpeg)
+<img width="1383" height="896" alt="03-recursos-bloqueados" src="https://github.com/user-attachments/assets/4edce8a1-625c-4c24-bc17-be715d1226f4" />
+<img width="1383" height="1755" alt="21-modelo303-datos-reales" src="https://github.com/user-attachments/assets/f8aea17f-23f3-48d0-ad3e-f77006f7288b" />
 
 ### Simulador Fiscal — decisiones antes de que cuesten dinero
 
 Conecta escenarios "what-if" con **tus datos reales** del trimestre para ver el efecto antes de decidir. Incluye 5 escenarios predeterminados (+10% de ingresos, −15% de gastos, límite legal de deducción de vehículos según el Art. 16 del IRPF…), **escenarios personalizados** con nombre, color y descripción, **mutaciones** (multiplicar, añadir, quitar o reclasificar operaciones, mover facturas entre periodos), filtros por categoría, tipo, IVA, IRPF o cliente, y análisis en **mapa de calor, sensibilidad, comparador y optimizador**, todo exportable.
 
-![Simulador con tus datos reales: los 5 escenarios listos](./22-simulador-datos-reales.jpeg)
+<img width="1383" height="3210" alt="22-simulador-datos-reales" src="https://github.com/user-attachments/assets/3e42f40a-c422-40ae-872c-8313b54af231" />
 
 ### Acceso — licencia portable firmada
 
 Sin contraseñas en la nube: una licencia con firma criptográfica RSA guardada en tu equipo (o USB) y un PIN que solo tú conoces. ¿Olvidaste el PIN? Un código de recuperación te devuelve el acceso — nadie más puede suplantarte.
 
-![Acceso con licencia portable](./05-acceso-licencia.jpeg)
-![Iniciar sesión con licencia portable y PIN](./25-inicio-sesion.png)
+<img width="1390" height="896" alt="05-acceso-licencia" src="https://github.com/user-attachments/assets/0020362b-8281-42f1-acd9-21a7c23984a5" />
+<img width="1390" height="896" alt="25-inicio-sesion" src="https://github.com/user-attachments/assets/a906c027-4972-4f43-9468-8a758ddd7c32" />
 
 ---
 
@@ -80,7 +80,7 @@ Sin contraseñas en la nube: una licencia con firma criptográfica RSA guardada 
 
 | | |
 |---|---|
-| ![Elige tu plan: Mensual y Mensual con permanencia](./26-elegir-plan.jpeg) | ![Elige tus add-ons: Simulador Fiscal seleccionado y total con IVA](./27-addon-simulador.jpeg) |
+| <img width="1390" height="896" alt="26-elegir-plan" src="https://github.com/user-attachments/assets/9d221b06-5c93-409b-9cd5-17b5a5f60ed7" />|<img width="1390" height="896" alt="27-addon-simulador" src="https://github.com/user-attachments/assets/91938380-f295-4e32-bdcc-9cd66a1acef7" />|
 
 <p align="center">
   <img src="./28-metodo-pago-datos.jpeg" width="440" alt="Método de pago: email de licencia, código de invitación y total con IVA">
