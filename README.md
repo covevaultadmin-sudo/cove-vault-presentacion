@@ -89,9 +89,7 @@ Sin contraseñas en la nube: una licencia con firma criptográfica RSA guardada 
 
 ## 🔑 Tu PIN maestro y tu llave
 
-<p align="center">
-  <img src="./30-configurar-pin.jpeg" width="440" alt="Configurar Acceso Portable: PIN maestro con licencia vinculada y descarga de llave USB">
-</p>
+<img width="1390" height="896" alt="30-configurar-pin" src="https://github.com/user-attachments/assets/94498252-a8e8-4809-84bf-90c1434511a5" />
 
 El alta termina creando tu **PIN maestro** (mínimo 10 caracteres, con medidor de robustez en pantalla) y descargando **dos archivos**: tu **llave para USB** (`aether_license.p12`, el sistema de acceso portable con el que inicias sesión en cualquier equipo) y una **copia de seguridad cifrada** (`.aethbak`) para restaurar si algo saliera mal.
 
