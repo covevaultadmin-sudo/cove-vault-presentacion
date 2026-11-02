@@ -82,13 +82,10 @@ Sin contraseñas en la nube: una licencia con firma criptográfica RSA guardada 
 |---|---|
 | <img width="1390" height="896" alt="26-elegir-plan" src="https://github.com/user-attachments/assets/9d221b06-5c93-409b-9cd5-17b5a5f60ed7" />|<img width="1390" height="896" alt="27-addon-simulador" src="https://github.com/user-attachments/assets/91938380-f295-4e32-bdcc-9cd66a1acef7" />|
 
-<p align="center">
-  <img src="./28-metodo-pago-datos.jpeg" width="440" alt="Método de pago: email de licencia, código de invitación y total con IVA">
-</p>
+<img width="1390" height="896" alt="28-metodo-pago-datos" src="https://github.com/user-attachments/assets/bf065e1d-b10c-46c4-8b8f-ba54e3d21949" />
 
-<p align="center">
-  <img src="./29-pago-confirmado.jpeg" width="440" alt="Pago confirmado: licencia activa, cifrada y almacenada localmente">
-</p>
+<img width="1390" height="896" alt="29-pago-confirmado" src="https://github.com/user-attachments/assets/a8e6f141-8bd8-4211-baa9-703c0fa31a11" />
+
 
 ## 🔑 Tu PIN maestro y tu llave
 
